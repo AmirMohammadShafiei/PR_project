@@ -66,7 +66,7 @@ Modular code (3 separate scripts for different methods)
 Python Version: 3.10 or higher recommended
 
 
-git clone https://github.com/yourusername/plate-recognition-yolo.git
+[git clone https://github.com/yourusername/plate-recognition-yolo.git](https://github.com/AmirMohammadShafiei/PR_project.git)
 
 
 
